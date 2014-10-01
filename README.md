@@ -1,7 +1,7 @@
 SpreeProductKits
 ================
 
-Adds oportunity to make bundle of products to your Spree store
+Add bundled products/variants (product kits) to Spree
 
 Installation
 ------------
